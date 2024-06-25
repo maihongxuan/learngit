@@ -4,3 +4,4 @@ how to push GitHub
 3. git remote add origin (with your repo url) // simply copy from your repo
 4. git add -A
 5. git commit -m "your commit"
+this is an update in website
